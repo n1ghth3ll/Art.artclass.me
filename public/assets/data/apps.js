@@ -14,7 +14,7 @@ var apps = [
     {
       "id": "discord",
       "title": "Discord",
-      "url": "https://discord.com/app",
+      "url": "https://discord.com/ap",
       'image': 'https://static.vecteezy.com/system/resources/previews/006/892/625/original/discord-logo-icon-editorial-free-vector.jpg'
     },
     {
@@ -45,13 +45,7 @@ var apps = [
       "id": "tiktok",
       "title": "TikTok",
       "url": "https://tiktok.com",
-      'image': 'https://sf-tb-sg.ibytedtos.com/obj/eden-sg/uhtyvueh7nulogpoguhm/tiktok-icon2.png'
-    },
-    {
-      "id": "reddit",
-      "title": "Reddit",
-      "url": "https://reddit.com",
-      'image': 'https://www.redditinc.com/assets/images/site/reddit-logo.png'
+      'image': 'https://sf-tb-sg.ibytedtos.com/obj/eden-sg/uhtyvueh7nulogpoguhm/tiktok-icon2.png`
     },
     {
       "id": "youtube",
